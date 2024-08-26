@@ -1,4 +1,4 @@
-# Espruino Pico XpressNet USB Adapter
+# Espruino Pico XpressNet USB Adapter [WIP]
 
 Building XpressNet USB Adapter based on Espruino Pico V1.3.
 
@@ -6,6 +6,8 @@ Features:
 * STM32F401CDU6 32-bit 84MHz ARM Cortex M4 CPU
 * All GPIO is 5 volt tolerant -> MAX485 chip
 * USART is Multiprocessor communication Compatible (9n1)
+
+Vendor info: https://www.espruino.com/Pico
 
 ## Requirements
 
